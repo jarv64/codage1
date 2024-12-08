@@ -429,11 +429,13 @@ h1{font-size:138.5%;}h2{font-size:123.1%;}h3{font-size:108%;}h1,h2,h3{margin:1em
           <div class="yui-b"></div>
         </div>
         <div class="yui-b">
-          <div style="margin-left: 40px;"><b>code porte 1</b><br>
+          <div style="margin-left: 40px;"><a href="file:///E:/educ/SPC/coll%C3%A9ge/escape%20game/ressource/autre%20cryptage/cryptage/codage%20divers/codage%201.html"><b>code
+                porte 1</b></a><br>
+            <a href="file:///E:/educ/SPC/coll%C3%A9ge/escape%20game/ressource/autre%20cryptage/cryptage/codage%20divers/codage%201bis.html"><br>
+              <b>code porte 2 </b></a><br>
             <br>
-            <b>code porte 2 </b><br>
-            <br>
-            <b>code porte 3</b></div>
+            <a href="file:///E:/educ/SPC/coll%C3%A9ge/escape%20game/ressource/autre%20cryptage/cryptage/codage%20divers/codage%201ter.html"><b>code
+                porte 3</b></a></div>
         </div>
       </div>
       <div id="ft">
